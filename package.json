@@ -1,0 +1,25 @@
+{
+  "name": "compete-js",
+  "version": "0.0.1",
+  "description": "A little module for code competitions",
+  "main": "src/compete.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejrbuss/compete-js.git"
+  },
+  "keywords": [
+    "competition"
+  ],
+  "author": "ejrbuss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejrbuss/compete-js/issues"
+  },
+  "homepage": "https://github.com/ejrbuss/compete-js#readme",
+  "dependencies": {
+    "type-mark": "^2.0.0"
+  }
+}
